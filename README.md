@@ -1,3 +1,7 @@
+conda create -n hallo python=3.10
+  conda activate hallo
+
+
 <h1 align='center'>Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation</h1>
 
 <div align='center'>
